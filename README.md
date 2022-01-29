@@ -29,5 +29,7 @@
   <a href="https://www.linkedin.com/in/axel-avelino-440239211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/avelinojr_3" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  
+ ##
+![snake gif](https://github.com/avelinojrr/avelinojrr/blob/output/github-contribution-grid-snake.gif)
  
 </div>
