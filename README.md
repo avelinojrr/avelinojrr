@@ -3,7 +3,7 @@
 
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avelinojrr&show_icons=true&locale=en&layout=compact" alt="avelinojrr" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avelinojrr&show_icons=true&locale=en" alt="avelinojrr" /></p>
+<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=avelinojrr&show_icons=true&locale=en" alt="avelinojrr" /></p>
 
   
 <h3 align="left">Languages and Tools:</h3>
