@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Axel Avelino</h1>
-<h3 align="center">A passionate Android Developer from Dominican Republic.</h3> 
+<h3 align="center">I am a software developer proficient in Python and Node.js</h3> 
 
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avelinojrr&show_icons=true&locale=en&layout=compact" alt="avelinojrr" /></p>
