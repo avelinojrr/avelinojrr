@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a software developer proficient in Python and Node.js, specializing in backend application development using popular frameworks such as Django and Express.js and have worked with databases such as MongoDB/PostgreSQL.<br><br>I'm Studying Engineering Systems.
+I am a software developer proficient in Python and Node.js, specializing in backend application development using popular frameworks such as Django and Express.js and have worked with databases such as MongoDB/PostgreSQL.<br><br>I'm Studying Engineering Systems.
 
 
 ## 🌐 Socials:
@@ -19,4 +19,3 @@
 [![](https://visitcount.itsvg.in/api?id=avelinojrr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
