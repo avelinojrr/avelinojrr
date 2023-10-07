@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Stranger👋, I am a software developer proficient in Node.js, specializing in backend application development using popular frameworks such as Express.js, Nest.js, and Meteor.js, I have worked with databases such as MongoDB/PostgreSQL. I also have experience in creating web services, RESTful APIs, and implementing microservices.<br><br>I'm Studying Engineering Systems.
+Hi Stranger👋, I am a software developer proficient in Node.js, specializing in backend application development using popular frameworks such as Express.js, Nest.js, and Meteor.js, I have worked with databases such as MongoDB/PostgreSQL. I also have experience in creating web services, RESTful APIs, and implementing microservices.<br><br>I'm Studying Engineering Systems.!
 
 
 ## 🌐 Socials:
