@@ -10,9 +10,6 @@ Hi Stranger👋, I am a software developer proficient in Node.js, specializing i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=avelinojrr&theme=radical&hide_border=false)<br/>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=avelinojrr&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=avelinojrr&icon=8&color=1)](https://visitcount.itsvg.in)
 
